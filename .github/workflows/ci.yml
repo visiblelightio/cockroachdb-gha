@@ -29,4 +29,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/visiblelightio/cockroachdb-gha:latest
-            ghcr.io/visiblelightio/cockroachdb-gha:v22.2.8
+            ghcr.io/visiblelightio/cockroachdb-gha:v23.1.1
