@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM cockroachdb/cockroach:v23.1.1
+FROM cockroachdb/cockroach:v23.2.2
 
 ENTRYPOINT [ "cockroach" ]
 
